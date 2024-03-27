@@ -144,6 +144,7 @@ section p {
 	text-transform: uppercase;
 }
 .banner-area a.banner-btn {
+	font-size: 40px;
 	padding: 15px 35px;
 	background: #bf0a30;
 	text-transform: uppercase;
@@ -159,6 +160,7 @@ section p {
 		font-size: 20px;
 	}
 	.banner-area a.banner-btn {
+		font-size: 25px;
 		padding: 8px 20px;
 	}
 }
